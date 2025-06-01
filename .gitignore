@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
+.venv/
+
+# temp
+.DS_Store
