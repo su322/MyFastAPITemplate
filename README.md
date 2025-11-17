@@ -4,7 +4,7 @@
 
 ```
 MyFastAPITemplate/
-├── app/
+├── backend/
 │   ├── core/
 │   ├── crud/
 │   ├── models/
