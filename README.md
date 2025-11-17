@@ -1,9 +1,9 @@
-# MyFastAPITemplate
+# fastapi-clean-starter
 
 ## 🗂️ 目录结构参考
 
 ```
-MyFastAPITemplate/
+fastapi-clean-starter/
 ├── backend/
 │   ├── core/
 │   ├── crud/
